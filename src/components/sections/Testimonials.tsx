@@ -97,7 +97,7 @@ export default function Testimonials() {
 
                   {/* Content */}
                   <blockquote className="text-foreground mb-6 leading-relaxed">
-                    "{testimonial.content}"
+                    &ldquo;{testimonial.content}&rdquo;
                   </blockquote>
 
                   {/* Author */}

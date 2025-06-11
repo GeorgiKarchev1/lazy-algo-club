@@ -105,7 +105,7 @@ export default function Pricing() {
             Stone Cold Pricing 🗿
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            No cap, these prices are bussin'. Pick your vibe and start your algorithmic glow-up journey.
+            No cap, these prices are bussin&apos;. Pick your vibe and start your algorithmic glow-up journey.
           </p>
         </motion.div>
 

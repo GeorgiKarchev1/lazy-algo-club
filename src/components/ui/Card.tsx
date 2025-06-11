@@ -25,6 +25,7 @@ const Card = React.forwardRef<HTMLDivElement, CardProps>(
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.5 }}
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         {...(props as any)}
       >
         {children}
